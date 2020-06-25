@@ -1,0 +1,17 @@
+body{
+    background-color: #e5e5e5;
+}
+.nav-extended{
+    background-image: url("\img1.png");
+    background-size: cover;
+}
+
+.nav ul li, .tab a.active {
+    border-bottom: solid 2px #fff;
+    background-color: transparent;
+}
+
+.nav-header h1{
+text-shadow:2px 2px 8 px #000000;
+
+}
